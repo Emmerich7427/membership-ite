@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.R text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.RData binary
+*.rds binary
+*.dta binary
+*.pdf binary
+Data/** -text -whitespace

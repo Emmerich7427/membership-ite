@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.Rproj.user/
+Data/S1/
+Data/S2/
+Data/S3/
+Data/S4/
+Data/JTPA/real_*.RData
+Results/
+Figures/
+oracle_sweep/oracle_sweep_output/
